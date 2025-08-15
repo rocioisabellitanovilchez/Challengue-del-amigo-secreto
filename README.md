@@ -18,7 +18,7 @@ Rocio Litano Vilchez
 - **HTML5** → Estructura del contenido.
 - **CSS3** → Estilos y diseño visual.
 - **JavaScript** → Lógica del sorteo y manejo de eventos.
-- Version 1.0 
+
 
 ---
 
